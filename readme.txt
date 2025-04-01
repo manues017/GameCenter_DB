@@ -1,4 +1,6 @@
-Plataforma de videojuegas que imita las funcionalidades de Steam.
+//Examen de la asginatura de Bases de datos//
+
+# Plataforma de videojuegas que imita las funcionalidades de Steam.
 
 Para usar se tiene unicamente que inciar python app.py desde la consola.
 
